@@ -1,0 +1,6 @@
+name: 'AutoUpdate'
+main: 'com.avairebot.autoupdate.AutoUpdate'
+version: '1.0-SNAPSHOT'
+author: 'Alexis Tan <Senither#0001>'
+description: "Checks if there is a newer version out for the nightly build, and then shuts the bot down with the update exit code, note this plugin doesn't work without Watchdog."
+requires: '0.9.0'
